@@ -10,4 +10,9 @@ here are some screen shots from the app
 ![pic1](./Screenshot_1609166774.png)
 
 
-Screenshot_1609166808.png
+![pic2](./Screenshot_1609166808.png)
+
+
+![pic3](./Screenshot_1609166799.png)
+
+
