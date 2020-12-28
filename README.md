@@ -7,4 +7,4 @@ as I was learning **flutter & dart** I decided to do the same by making a simple
 
 here are some screen shots from the app
 
-[pic1](./Screenshot_1609166774.png)
+![pic1](./Screenshot_1609166774.png)
