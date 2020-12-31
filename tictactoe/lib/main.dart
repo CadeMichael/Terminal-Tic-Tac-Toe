@@ -195,6 +195,7 @@ class _GameState extends State<Game> {
                     child: RaisedButton(
                       padding: const EdgeInsets.all(16.0),
                       shape: CircleBorder(),
+                      splashColor: Colors.red,
                       child: Text(
                         board[3],
                         textScaleFactor: 2.5,
